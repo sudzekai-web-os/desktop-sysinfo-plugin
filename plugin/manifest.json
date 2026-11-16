@@ -1,0 +1,7 @@
+{
+  "id": "linctrl.sysinfo",
+  "name": "Сведения о сервере",
+  "summary": "Ресурсы сервера и задержка подключения.",
+  "apiVersion": 1,
+  "entry": "Main.qml"
+}
